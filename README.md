@@ -1,7 +1,9 @@
 ## Comandos Prisma
 
-- `npx prisma migrate dev --name "TEXT"`: Criar migrations
-- `npx prisma format`: Auto completa arquivo do prisma
+- `Projeto para a faculdade`: O objetivo era poder realizar login, registro e cadastro de itens com o software, utilizando express.js e outras bibliotecas, como o prisma. É importante constatar que o projeto segue normas de segurança para senha, com bcrypt e JWT, para manter o usuário logado. Testes realizados em PostMan!
+
+## Comandos Prisma
+
 - `npx prisma studio`: Abre interface gráfica do prisma
 
 ---
